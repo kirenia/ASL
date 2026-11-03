@@ -1,4 +1,4 @@
 <?php
-echo "Hello ASL!\n";
+echo "Hello again, ASL!\n";
 echo date("Y-m-d") . "\n";
 ?>

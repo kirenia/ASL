@@ -1,2 +1,2 @@
-print("Hello ASL!")
+print("Hello again, ASL!")
 print(os.date("%Y-%m-%d"))
